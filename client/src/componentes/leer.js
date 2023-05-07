@@ -1,1 +1,1 @@
-//puede inciar creando las una carpeta par aun componente o varios componentes
+//puede inciar creando las una carpeta par aun componente o varios componentes///
